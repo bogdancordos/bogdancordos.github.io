@@ -1,2 +1,2 @@
-# bogdancordos.github.io
+# NetGuard Home
 Your Family's Network Guardian
