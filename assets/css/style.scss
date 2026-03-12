@@ -2,24 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-#header nav ul {
-    list-style: none;
-    padding: 20px 0;
-    display: flex;
-    justify-content: flex-start; /* Aligns buttons to the left */
-    gap: 15px; /* Space between buttons */
-}
-
-#header nav ul li a {
-    text-decoration: none;
-    background-color: #004080; /* Your NetGuard Home Blue */
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: background-color 0.3s ease;
-}
-
-#header nav ul li a:hover {
-    background-color: #002d5a; /* Slightly darker on hover */
-}
