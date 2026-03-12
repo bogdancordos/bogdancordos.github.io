@@ -3,32 +3,31 @@
   <p style="color: #000000; text-align: center; margin-bottom: 30px;">
     Because your home should be your most private space—digital or physical.
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
     At NetGuard Home, we believe that when you pay for internet service and smart devices, you shouldn't become the product being sold.
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
-The Current State of the Home:
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
 Today, the average modern home is filled with "silent listeners." From Smart TVs that track your viewing habits to "connected" toys and appliances that report your usage patterns to data brokers, your private life is being harvested for profit.
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
 Our Mission:
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
 We created NetGuard Home to give the power back to you. We don't believe you should need a Computer Science degree to protect your family's data. Our mission is to provide:
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
     - Total Transparency: You should know exactly where your devices are trying to "phone home."
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
     - A "Clean" Internet: We strip away the invasive tracking scripts and distracting ads that slow down your connection and clutter your mind.
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
-    - Local Trust: As your neighbors in [Your Area], we provide the hands-on setup and ongoing support that big tech companies won't.
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
+    - Local Trust: As your neighbors in Greasby, we provide the hands-on setup and ongoing support that big tech companies won't.
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
 Our Promise:
   </p>
-  <p style="color: #000000; text-align: center; margin-bottom: 30px;">
+  <p style="color: #000000; text-align: left; margin-bottom: 30px;">
 We don't collect your data. We don't see your traffic. We simply provide the shield. We are here to ensure that your "Smart Home" stays smart—and, above all, stays yours.
   </p>
 
