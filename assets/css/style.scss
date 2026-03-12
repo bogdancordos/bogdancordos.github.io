@@ -2,26 +2,25 @@
 ---
 
 @import "{{ site.theme }}";
+#header {
+    background-color: #002d5a; /* Deep Navy Blue to match logo */
+    border-bottom: 3px solid #4CAF50; /* Subtle Green accent line */
+    padding: 10px 20px;
+}
+
+/* Make the buttons look more professional */
 .nav-btn {
-    text-decoration: none;
-    background-color: #004080; /* NetGuard Navy Blue */
+    background-color: #4CAF50 !important; /* Shield Green */
     color: white !important;
-    padding: 8px 16px;
+    border: none;
+    box-shadow: 0 4px 0 #2E7D32; /* Adds a "pressed" look */
     border-radius: 4px;
-    font-weight: 600;
-    font-size: 0.9em;
-    transition: all 0.3s ease;
+    padding: 8px 16px;
+    transition: all 0.2s ease;
 }
 
 .nav-btn:hover {
-    background-color: #002d5a;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
-
-/* Mobile Responsiveness */
-@media (max-width: 600px) {
-    #header nav {
-        flex-direction: column;
-        gap: 15px;
-    }
+    background-color: #45a049 !important;
+    transform: translateY(2px);
+    box-shadow: 0 2px 0 #2E7D32;
 }
