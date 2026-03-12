@@ -16,15 +16,21 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include head-custom.html %}
-      <div id="header">
-        <nav>
-          <ul class="nav-links">
-            <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/about' | relative_url }}">About Us</a></li>
-            <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
-          </ul>
-        </nav>
-      </div>```
+<div id="header">
+  <nav style="display: flex; align-items: center; justify-content: space-between; padding: 10px 0;">
+    <div class="logo">
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="NetGuard Home Logo" style="height: 50px; width: auto;">
+      </a>
+    </div>
+
+    <ul class="nav-links" style="display: flex; list-style: none; gap: 15px; margin: 0;">
+      <li><a href="{{ '/' | relative_url }}" class="nav-btn">Home</a></li>
+      <li><a href="{{ '/about' | relative_url }}" class="nav-btn">About Us</a></li>
+      <li><a href="{{ '/contact' | relative_url }}" class="nav-btn">Contact</a></li>
+    </ul>
+  </nav>
+</div>
   </head>
   <body>
       <div id="header">
